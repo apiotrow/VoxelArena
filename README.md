@@ -22,7 +22,10 @@ Playable with two Xbox controllers. Only one player is controllable via mouse an
 
 
 <b>High Concept:</b> A voxel-based, two-player (possibly four player), three-dimensional battle arena with destructible surfaces. (Minecraft inspired terrain with generative and destructive properties, Towerfall/first person shooter/brawler battle mechanics.)
-Team Roster: Paul Kasum, Aaron Piotrowski, Jacky Chiu, Vernon Wong
+
+
+
+<b>Team Roster:</b> Paul Kasum, Aaron Piotrowski, Jacky Chiu, Vernon Wong
 
 
 <b>How to Play Instructions:</b>
