@@ -71,7 +71,7 @@ Y Button - Gun swap
 
 
 
-<b>Gameplay:<b>
+<b>Gameplay:</b>
 Your objective is to destroy your enemy by punching them and launching your various missiles and bullets. In order to destroy your enemy, you must get his health to 0. At the top of each frame there is a health display, showing you the health of the player in that frame. Your ammunition count is displayed underneath your health. Powerups can be found within the terrain. To gain a powerup, punch it.
 
 
