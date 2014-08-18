@@ -76,5 +76,7 @@ Your objective is to destroy your enemy by punching them and launching your vari
 
 
 <b>Known issues:</b>
+
 -UI still has rendering issues. UI is functional, i.e. it tells what player the correct amounts of ammunition and health, but the icons are rendering in the wrong places, and the background of the UI is not rendering as intended.
+
 -Turning ammunition amount to "OFF" in settings screen will set the ammunition amount to zero.
