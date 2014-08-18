@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RobotAnim.cs">
+    <Files>
+      <File FileName="Assets\Scripts\RobotAnim.cs" Line="119" Column="7" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\fightBOT (free)\script\robo_animationCheck_free.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ModifyTerrain.cs" Line="19" Column="29" />
+      <File FileName="Assets\Scripts\Impact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissileController.cs" Line="18" Column="70" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AirstrikeController.cs" Line="18" Column="42" />
+      <File FileName="Assets\Scripts\Missile.cs" Line="81" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
