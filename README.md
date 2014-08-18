@@ -12,6 +12,12 @@ Playable with two Xbox controllers. Only one player is controllable via mouse an
 ------------------------------------------------------
 
 
+
+<b>Design Doc:</b>
+![Design Doc](https://rawgit.com/apiotrow/VoxelArena/master/voxel_arena_design_doc.jpg)
+
+
+
 <b>Genre:</b> Action/FirstPersonShooter(Multiplayer)
 
 
@@ -72,6 +78,3 @@ Your objective is to destroy your enemy by punching them and launching your vari
 <b>Known issues:</b>
 -UI still has rendering issues. UI is functional, i.e. it tells what player the correct amounts of ammunition and health, but the icons are rendering in the wrong places, and the background of the UI is not rendering as intended.
 -Turning ammunition amount to "OFF" in settings screen will set the ammunition amount to zero.
-
-<b>Design Doc:</b>
-![Design Doc](https://rawgit.com/apiotrow/VoxelArena/master/voxel_arena_design_doc.jpg)
