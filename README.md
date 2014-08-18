@@ -74,3 +74,4 @@ Your objective is to destroy your enemy by punching them and launching your vari
 -Turning ammunition amount to "OFF" in settings screen will set the ammunition amount to zero.
 
 <b>Design Doc:</b>
+![Design Doc](https://rawgit.com/apiotrow/VoxelArena/master/voxel_arena_design_doc.jpg)
